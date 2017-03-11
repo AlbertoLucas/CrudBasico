@@ -1,0 +1,25 @@
+c:\users\alberto lucas\documents\visual studio 2015\Projects\CrudBasico\CrudBasico\bin\Debug\CrudBasico.exe.config
+C:\Users\Alberto Lucas\documents\visual studio 2015\Projects\CrudBasico\CrudBasico\obj\Debug\CrudBasico.Properties.Resources.resources
+C:\Users\Alberto Lucas\documents\visual studio 2015\Projects\CrudBasico\CrudBasico\obj\Debug\CrudBasico.csproj.GenerateResource.Cache
+C:\Users\Alberto Lucas\documents\visual studio 2015\Projects\CrudBasico\CrudBasico\bin\Debug\CrudBasico.exe
+C:\Users\Alberto Lucas\documents\visual studio 2015\Projects\CrudBasico\CrudBasico\bin\Debug\CrudBasico.pdb
+C:\Users\Alberto Lucas\documents\visual studio 2015\Projects\CrudBasico\CrudBasico\obj\Debug\CrudBasico.exe
+C:\Users\Alberto Lucas\documents\visual studio 2015\Projects\CrudBasico\CrudBasico\obj\Debug\CrudBasico.pdb
+C:\Users\Alberto Lucas\documents\visual studio 2015\Projects\CrudBasico\CrudBasico\obj\Debug\CrudBasico.csprojResolveAssemblyReference.cache
+C:\Users\Alberto Lucas\documents\visual studio 2015\Projects\CrudBasico\CrudBasico\obj\Debug\CrudBasico.frmConsulta.resources
+C:\Users\Alberto Lucas\documents\visual studio 2015\Projects\CrudBasico\CrudBasico\obj\Debug\CrudBasico.frmCadastro.resources
+C:\Users\Alberto Lucas\documents\visual studio 2015\Projects\CrudBasico\CrudBasico\obj\Debug\CrudBasico.frmLogin.resources
+C:\Users\Alberto Lucas\Desktop\SUBIR PARA O GITHUB\Projetos\CrudBasico\CrudBasico\bin\Debug\CrudBasico.exe.config
+C:\Users\Alberto Lucas\Desktop\SUBIR PARA O GITHUB\Projetos\CrudBasico\CrudBasico\obj\Debug\CrudBasico.exe
+C:\Users\Alberto Lucas\Desktop\SUBIR PARA O GITHUB\Projetos\CrudBasico\CrudBasico\obj\Debug\CrudBasico.pdb
+C:\Users\Alberto Lucas\Desktop\Pendencias\SUBIR PARA O GITHUB\Projetos\CrudBasico\CrudBasico\bin\Debug\CrudBasico.exe.config
+C:\Users\Alberto Lucas\Desktop\Pendencias\SUBIR PARA O GITHUB\Projetos\CrudBasico\CrudBasico\obj\Debug\CrudBasico.exe
+C:\Users\Alberto Lucas\Desktop\Pendencias\SUBIR PARA O GITHUB\Projetos\CrudBasico\CrudBasico\obj\Debug\CrudBasico.pdb
+C:\Users\Alberto Lucas\Desktop\Pendencias\SUBIR PARA O GITHUB\Projetos\CrudBasico\CrudBasico\obj\Debug\CrudBasico.csprojResolveAssemblyReference.cache
+C:\Users\Alberto Lucas\Desktop\Pendencias\SUBIR PARA O GITHUB\Projetos\CrudBasico\CrudBasico\obj\Debug\CrudBasico.frmConsulta.resources
+C:\Users\Alberto Lucas\Desktop\Pendencias\SUBIR PARA O GITHUB\Projetos\CrudBasico\CrudBasico\obj\Debug\CrudBasico.frmCadastro.resources
+C:\Users\Alberto Lucas\Desktop\Pendencias\SUBIR PARA O GITHUB\Projetos\CrudBasico\CrudBasico\obj\Debug\CrudBasico.frmLogin.resources
+C:\Users\Alberto Lucas\Desktop\Pendencias\SUBIR PARA O GITHUB\Projetos\CrudBasico\CrudBasico\obj\Debug\CrudBasico.Properties.Resources.resources
+C:\Users\Alberto Lucas\Desktop\Pendencias\SUBIR PARA O GITHUB\Projetos\CrudBasico\CrudBasico\obj\Debug\CrudBasico.csproj.GenerateResource.Cache
+C:\Users\Alberto Lucas\Desktop\Pendencias\SUBIR PARA O GITHUB\Projetos\CrudBasico\CrudBasico\bin\Debug\CrudBasico.exe
+C:\Users\Alberto Lucas\Desktop\Pendencias\SUBIR PARA O GITHUB\Projetos\CrudBasico\CrudBasico\bin\Debug\CrudBasico.pdb
